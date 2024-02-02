@@ -11,37 +11,37 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'Planetaria',
+    name: 'BrainBudget',
     description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
+      'Building financial intelligence and transparency.',
+    link: { href: 'http://planetaria.tech', label: 'github.com' },
     logo: logoPlanetaria,
   },
   {
-    name: 'Animaginary',
+    name: 'MentalShare',
     description:
-      'High performance web animation library, hand-written in optimized WASM.',
+      'Sharing mental health awareness.',
     link: { href: '#', label: 'github.com' },
     logo: logoAnimaginary,
   },
   {
-    name: 'HelioStream',
+    name: 'MineCraft',
     description:
-      'Real-time video streaming library, optimized for interstellar transmission.',
+      'MineCraft game developed using the Ursina game engine with Python3.',
     link: { href: '#', label: 'github.com' },
     logo: logoHelioStream,
   },
   {
-    name: 'cosmOS',
+    name: 'SpotifySync',
     description:
-      'The operating system that powers our Planetaria space shuttles.',
+      'Providing user analytics with Spotify Web API and ThreeJS',
     link: { href: '#', label: 'github.com' },
     logo: logoCosmos,
   },
   {
-    name: 'OpenShuttle',
+    name: 'Mobile App',
     description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
+      'Coming soon...',
     link: { href: '#', label: 'github.com' },
     logo: logoOpenShuttle,
   },

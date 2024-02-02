@@ -189,7 +189,7 @@ function Resume() {
     {
       company: 'Kaiser Permanente',
       title: 'Analyst',
-      logo: logoPlanetaria,
+      logo: '',
       start: '2023',
       end: {
         label: 'Present',
@@ -199,21 +199,21 @@ function Resume() {
     {
       company: 'Truong Duong MD Cardiac Electrophysiology',
       title: 'Medical Scribe',
-      logo: logoAirbnb,
+      logo: '',
       start: '2019',
       end: '2022',
     },
     {
       company: 'Universal Electronics',
       title: 'IT Service Desk',
-      logo: logoFacebook,
+      logo: '',
       start: '2018',
       end: '2021',
     },
     {
       company: 'Din Tai Fung',
       title: 'Food Expo Lead',
-      logo: logoStarbucks,
+      logo: '',
       start: '2020',
       end: '2022',
     },
@@ -274,7 +274,7 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            Jevon Hill - An Aspiring Software Developer
+            Jevon Hill - Software Developer
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             I'm Jevon Hill, a web developer with a unique background in biology from UCI, now deeply passionate about programming, especially in React.
